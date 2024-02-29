@@ -1,0 +1,40 @@
+.panelpos-bookride {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden; /* Prevent content overflow */
+}
+
+.panel.panel-primary {
+  width: 70%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden; /* Hide overflowing content */
+}
+
+.panel-body {
+  overflow: hidden; /* Hide overflowing content */
+}
+
+.table {
+  width: 70%;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn.floating-button {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.blue-text {
+  color: blue;
+}

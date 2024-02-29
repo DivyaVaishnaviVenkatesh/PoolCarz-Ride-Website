@@ -1,0 +1,42 @@
+.ride-details {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .ride-details h3 {
+    margin-top: 0;
+    font-size: 1.2em;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 5px;
+  }
+  
+  .error-text {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .action-btn {
+    padding: 8px 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .book-btn {
+    background-color: #4caf50; /* Green */
+  }
+  
+  .cancel-btn {
+    background-color: #f44336; /* Red */
+  }
+  

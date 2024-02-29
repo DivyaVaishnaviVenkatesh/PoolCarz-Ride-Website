@@ -1,0 +1,47 @@
+/* Global Styles */
+.container-styles {
+  position: relative;
+  top: 180px;
+  width: 400px;
+  border: 5px solid white;
+  margin: 0 auto;
+  background-color: antiquewhite;
+}
+
+.link-underline {
+  color: #337ab7;
+  text-decoration: underline;
+}
+
+/* Error and Validation Styles */
+.error,
+.valid {
+  position: relative;
+  left: 50px;
+}
+
+.error {
+  color: red;
+}
+
+.valid {
+  border-left: 5px solid #42a948; /* green */
+}
+
+.invalid {
+  border-left: 5px solid #a94442; /* red */
+}
+
+/* Padding Styles */
+.padding {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+/* Panel Heading Styles */
+.panel-heading {
+  border: 10px;
+  background-color: #337ab7;
+  color: black;
+  font-size: 25px;
+}

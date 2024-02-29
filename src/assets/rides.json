@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "offerId": "A102I",
+    "name": "Elsa" ,
+    "car": "BMW" ,
+    "seatsLeft": 3,
+    "pickUp": "Vanrose Junction",
+    "destination": "iPlanet"
+  },
+  {
+    "id":2,
+    "offerId": "A103I",
+    "name": "Jennie" ,
+    "car": "Swift" ,
+    "seatsLeft": 2,
+    "pickUp": "PTP",
+    "destination": "iPlanet"
+  },
+  {
+    "id": 3,
+    "offerId": "A104I",
+    "name": "Anna" ,
+    "car": "Honda" ,
+    "seatsLeft": 7,
+    "pickUp": "iPlanet",
+    "destination": "East-Fort"
+  },
+  {
+    "id": 4,
+    "offerId": "A100I",
+    "name": "Jack" ,
+    "car": "Batmobile" ,
+    "seatsLeft": 5,
+    "pickUp": "iPlanet",
+    "destination": "Central Mall"
+  }
+] 

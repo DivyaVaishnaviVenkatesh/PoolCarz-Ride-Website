@@ -1,0 +1,38 @@
+/* Main Container Styles */
+.panelpos-offerride {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Panel Styles */
+.panel.panel-primary {
+  width: 100%;
+  height: 30%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Panel Heading Styles */
+.panel-heading {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+/* Error Message Styles */
+.error {
+  color: red;
+}
+
+/* Success Message Styles */
+.text-success {
+  color: green;
+}
+
+/* Form Group Styles */
+.form-group {
+  font-size: 20px;
+}

@@ -48,6 +48,7 @@ For Login username and password details are in assests folder in users.json file
 ![Ride_details](https://github.com/DivyaVaishnaviVenkatesh/PoolCarz-Ride-Website/assets/123964776/5a66da00-b491-475d-ab06-2bd00eb0028b)
 
 Technologies Used:
+
 Front-end:HTML,CSS,JavaScript
 Angular Js is also used..
 
@@ -55,6 +56,4 @@ Angular Js is also used..
 
 
 
-
-2)
 
